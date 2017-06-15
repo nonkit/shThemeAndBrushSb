@@ -9,7 +9,7 @@ Describe following brushes and themes in your HTML file.
   <link type="text/css" rel="stylesheet" href="styles/shCore.css"/>
   <link type="text/css" rel="stylesheet" href="styles/shThemeSb.css"/>
 ```
-Then it can be used with one ofe these aliases:
+Then it can be used with one of these aliases:
 ```
 <pre class="brush: sb;">
 <pre class="brush: smallbasic;">
