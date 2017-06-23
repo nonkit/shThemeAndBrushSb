@@ -28,7 +28,23 @@
 		var objects =	'Array Clock Control Desktop Dictionary ' +
 						'File Flickr GraphicsWindow ImageList Math Mouse ' +
 						'Network Program Shapes Sound Stack ' +
-						'Text TextWindow Timer Turtle';
+						'Text TextWindow Timer Turtle' +
+						'KinectBodyList KinectFaceList KinectWindow ' +
+						'LD3DView LDArray LDBits LDBlueTooth ' +
+						'LDCall LDChart LDClient LDClipboard LDColours ' +
+						'LDCommPort LDController LDControls LDCursors ' +
+						'LDDataBase LDDateTime LDDebug LDDialogs LDDictionary ' +
+						'LDEffect LDEmail LDEncryption LDEvents ' +
+						'LDFastArray LDFastShapes LDFigures ' +
+						'LDFile LDFocus LDftp LDGraph LDGraphicsWindow ' +
+						'LDHID LDImage LDInline LDIOWarrior LDList LDLogic ' +
+						'LDMath LDMathX LDMatrix LDMusic LDNetwork ' +
+						'LDPhysics LDProcess LDQueue LDRegex LDResources ' +
+						'LDScrollBars LDSearch LDServer LDSettings LDShapes ' +
+						'LDShell LDSort LDSound LDSpeech LDStatistics LDStopwatch ' +
+						'LDText LDTextWindow LDTimer LDTranslate ' +
+						'LDUnits LDUtilities LDVector ' +
+						'LDWaveForm LDWebCam LDWindows LDxml LDZip';
 
 		this.regexList = [
 			{ regex: /'.*$/gm,										css: 'comments' },		// one line comments
