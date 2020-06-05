@@ -1,5 +1,5 @@
 # shThemeSb.css and shBrushSb.js
-Small Basic brush module and theme for [SyntaxHighlighter 3.0.83](https://github.com/syntaxhighlighter/SyntaxHighlighter-Site/blob/master/content/SyntaxHighlighter/download/syntaxhighlighter_3.0.83.zip).
+Small Basic brush module and theme for [SyntaxHighlighter 3.0.83](https://github.com/syntaxhighlighter/syntaxhighlighter/releases/tag/3.0.83).
 
 ## Usage
 Describe following brushes and themes in your HTML file.
